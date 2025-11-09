@@ -103,3 +103,6 @@ python3 generate_human_like_stream.py \
   -o all_passwords.txt \
   --max-per-word 30000 \
   --flush-every 5000
+
+  BTC donation address:
+bc1q4nyq7kr4nwq6zw35pg0zl0k9jmdmtmadlfvqhr
